@@ -1,2 +1,3 @@
 # google_auth_node
-![Screenshot (39)](https://user-images.githubusercontent.com/72166353/125987594-a24dfed4-2fdd-40d9-b6ba-0e4c80776dbf.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/72166353/125988032-d2ffffc4-7954-47d0-9723-fdc300cddeaf.png)
+
